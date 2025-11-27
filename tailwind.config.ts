@@ -53,6 +53,7 @@ export default {
         },
       },
       fontFamily: {
+        sans: ['Quicksand', 'ui-sans-serif', 'system-ui', '-apple-system', 'Segoe UI', 'Roboto', 'Helvetica', 'Arial', 'Noto Sans', 'sans-serif', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'],
         josefin: ['Josefin Slab', 'serif'],
       },
       backgroundImage: {
